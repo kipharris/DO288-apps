@@ -35,7 +35,7 @@ pipeline {
                     input message: "Move to stage 3?"
                 }
             }
-        ß}
+        }
 
         stage('stage 3') {
             steps {
