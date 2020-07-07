@@ -59,3 +59,4 @@ nb-configuration.xml
 ##########################
 .DS_Store
 simple-pipeline/simple-pipeline.yaml
+books/jenkins/custom-pipeline-bc.yaml
